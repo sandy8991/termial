@@ -1,0 +1,167 @@
+@charset "UTF-8";
+* {
+  font-family: 微軟正黑體;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-weight: bold;
+}
+
+header.jumbotron {
+  text-align: center;
+  background-image: url(https://5b0988e595225.cdn.sohucs.com/images/20180608/93524bf99193439b8747a8469dc92881.jpeg);
+  background-size: cover;
+  background-attachment: fixed;
+  margin-bottom: 0px;
+}
+header.jumbotron .container {
+  color: white;
+  padding: 100px 0px;
+}
+header.jumbotron h1 {
+  font-size: 65px;
+}
+header.jumbotron hr {
+  max-width: 50px;
+  margin: 0 auto;
+  border: solid 3px #e6c973;
+}
+header.jumbotron h4 {
+  padding-top: 20px;
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: normal;
+}
+
+section {
+  padding: 50px 0px;
+}
+
+section#section_oil {
+  background-color: #e6c973;
+}
+section#section_oil .col-sm-5.img {
+  background-image: url(https://www.buydirectlyfromfarmers.tw/media/uploads/images/products/2019/04/pic_sesameoil_lee_5_1.jpg);
+}
+
+h1 {
+  margin-top: 30px;
+}
+
+hr {
+  margin-left: 2px;
+  max-width: 70px;
+  border: solid 3px #91782c;
+}
+
+h2 {
+  font-size: 24px;
+  color: white;
+  font-weight: normal;
+  line-height: 32px;
+  margin-top: 23px;
+  letter-spacing: 2px;
+  padding: 10px;
+}
+
+section#section_oilmore .col-sm-4 {
+  padding: 25px;
+}
+section#section_oilmore img {
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+}
+section#section_oilmore h3 {
+  padding-top: 12px;
+  padding-bottom: 6px;
+}
+section#section_oilmore p {
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+section#section_oilmore section#section_map {
+  background-color: #e6c973;
+  color: white;
+  padding: 0;
+}
+section#section_oilmore section#section_map .col-sm-5 {
+  background-image: url(https://upload.cc/i1/2020/06/15/PDXQJm.jpg);
+  height: 420px;
+}
+section#section_oilmore section#section_map .col-sm-7 h1 {
+  padding-top: 20px;
+  font-size: 40px;
+  color: black;
+  font-weight: bold;
+  margin-top: 30px;
+}
+section#section_oilmore section#section_map .col-sm-7 hr {
+  margin-left: 11px;
+  max-width: 94px;
+  border: solid 3px #91782c;
+}
+section#section_oilmore section#section_map .col-sm-7 h2 {
+  padding-top: 20px;
+  font-size: 24px;
+  color: white;
+  font-weight: normal;
+  line-height: 32px;
+  margin-top: 23px;
+  letter-spacing: 2px;
+  padding: 10px;
+}
+
+footer.jumbotron {
+  text-align: center;
+  background-image: url(https://5b0988e595225.cdn.sohucs.com/images/20180608/93524bf99193439b8747a8469dc92881.jpeg);
+  background-size: cover;
+  background-attachment: fixed;
+  margin-bottom: 0px;
+}
+footer.jumbotron input {
+  background-color: transparent;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer.jumbotron .container {
+  color: white;
+  padding: 60px 0px;
+}
+footer.jumbotron hr {
+  max-width: 50px;
+  margin-left: 450px;
+  border: solid 3px #e6c973;
+}
+
+section#section_another .row#1 {
+  padding: -10px;
+}
+section#section_another .col-sm-4 {
+  padding: 25px;
+}
+section#section_another img {
+  border-radius: 10%;
+  width: 300px;
+  height: 250px;
+  overflow: hidden;
+}
+section#section_another h3 {
+  text-align: center;
+  padding: 5px;
+}
+section#section_another p {
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+
+footer.jumbotron h2 {
+  margin-top: -10px;
+}
+footer.jumbotron hr {
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+footer.jumbotron input {
+  margin-bottom: 20px;
+}
